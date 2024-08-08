@@ -1,0 +1,10 @@
+.contain {
+    margin-right: 0%;
+}
+
+.navbar-links a {
+    margin: 0 16px;
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+}
